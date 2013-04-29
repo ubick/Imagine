@@ -356,6 +356,8 @@ final class Drawer implements DrawerInterface
                 'Draw text operation failed', $e->getCode(), $e
             );
         }
+
+        return $this;
     }
 
     /**
