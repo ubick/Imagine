@@ -5,7 +5,7 @@
     {
         "type": "vcs",
         "url": "https://github.com/ubick/Imagine"
-    },
+    }],
     "keywords": [
         "image manipulation",
         "image processing",
