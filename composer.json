@@ -1,6 +1,11 @@
 {
     "name": "ubick/imagine",
     "description": "Image processing for PHP 5.3",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/ubick/Imagine"
+        }    
     "keywords": [
         "image manipulation",
         "image processing",
